@@ -1,5 +1,5 @@
 #/bin/bash
-# Project name: WDNT - Web Defense from Network Traffic
+# Project name: WDNT - Web Defense via Network Traffic
 # Written by: KsrvcO
 # Version: 1.1
 # Detecting this web attacks from analyzing network traffic: 
@@ -22,7 +22,7 @@ echo -e "
 ░░░╚═╝░░░╚═╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░
                                by KsrvcO
 
-Project name: WDNT - Web Defense from Network Traffic
+Project name: WDNT - Web Defense via Network Traffic
 Written by: KsrvcO
 Version: 1.1
 Contact me: flower.k2000[at]gmail.com
