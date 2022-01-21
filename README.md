@@ -1,4 +1,4 @@
-# WDNT - Web Defense from Network Traffic
+# WDNT - Web Defense via Network Traffic
 
 # About :
 This is an project for monitoring network traffic and detect web app attacks on your web portals via network traffic analysing.
